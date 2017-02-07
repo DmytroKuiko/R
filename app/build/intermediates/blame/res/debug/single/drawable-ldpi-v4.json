@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_reply_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_reply_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sort_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sort_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_format_list_numbered_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_format_list_numbered_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cloud_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cloud_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_mode_edit_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_delete_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_done_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_done_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_send_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_star_outline_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_star_outline_24dp.png"
+    },
+    {
+        "merged": "E:\\Android_Applications\\SQLiteTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_info_24dp.png",
+        "source": "E:\\Android_Applications\\SQLiteTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_24dp.png"
+    }
+]

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Records</string>
+    <string name="text_view_date">Date :</string>
+    <string name="text_view_expenditure">Expenditure :</string>
+    <string name="edit_text_sum">Please enter a Sum</string>
+    <string name="checkbox_description">Description :</string>
+    <string name="edit_text_Description">Please enter a Description</string>
+    <string name="button_add">ADD</string>
+    <string name="edit_text_date">Please enter a Date</string>
+    <string name="edit_text_dateSet">%1$02d.%2$02d.%3$d</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_info">Info</string>
+    <string name="text_view_name_sum">Sum/\u20ac</string>
+    <string name="menu_sort">Sorting</string>
+    <string name="check_box_date">by Date</string>
+    <string name="check_box_min_sum">min Sum</string>
+    <string name="check_box_max_sum">max Sum</string>
+    <string name="check_box_mont_year">by Month and Year</string>
+    <string name="text_view_info">Please enter the date and the sum(description - optional).
+        \nClick on a record shows the description, long click deletes the record.
+        \n\nRecords Saver v1.0 by Kuiko.D</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="toast_already_empty">Already empty</string>
+    <string name="dialog_message_delete">Delete this record?</string>
+    <string name="set_positive_button">Yes</string>
+    <string name="set_negative_button">No</string>
+    <string name="set_positive_button_sorting">Ok</string>
+    <string name="set_negative_button_sorting">Cancel</string>
+
+</resources>
